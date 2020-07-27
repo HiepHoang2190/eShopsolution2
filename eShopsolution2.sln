@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopsolution2.WebApp", "eShopsolution2.WebApp\eShopsolution2.WebApp.csproj", "{C7618FB3-7CA0-4888-8799-F0C4F4910FA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{60E61B22-02AE-4460-81C2-81AFB2D48D15}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7618FB3-7CA0-4888-8799-F0C4F4910FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7618FB3-7CA0-4888-8799-F0C4F4910FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7618FB3-7CA0-4888-8799-F0C4F4910FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7618FB3-7CA0-4888-8799-F0C4F4910FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942DAE11-296E-40D2-B389-51353091EDAB}
+	EndGlobalSection
+EndGlobal
